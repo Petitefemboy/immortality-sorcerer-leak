@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2018", "2018.vcxproj", "{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Beta|x64 = Beta|x64
+		Beta|x86 = Beta|x86
+		Debug loader|x64 = Debug loader|x64
+		Debug loader|x86 = Debug loader|x86
+		Developer|x64 = Developer|x64
+		Developer|x86 = Developer|x86
+		Stable build|x64 = Stable build|x64
+		Stable build|x86 = Stable build|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Beta|x64.ActiveCfg = Beta|x64
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Beta|x64.Build.0 = Beta|x64
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Beta|x86.ActiveCfg = Beta|Win32
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Beta|x86.Build.0 = Beta|Win32
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Debug loader|x64.ActiveCfg = Debug loader|x64
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Debug loader|x64.Build.0 = Debug loader|x64
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Debug loader|x86.ActiveCfg = Debug loader|Win32
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Debug loader|x86.Build.0 = Debug loader|Win32
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Developer|x64.ActiveCfg = Developer|x64
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Developer|x64.Build.0 = Developer|x64
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Developer|x86.ActiveCfg = Developer|Win32
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Developer|x86.Build.0 = Developer|Win32
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Stable build|x64.ActiveCfg = Stable build|x64
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Stable build|x64.Build.0 = Stable build|x64
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Stable build|x86.ActiveCfg = Stable build|Win32
+		{A437D8C7-EFDA-444A-B941-5CEFCD40C2F6}.Stable build|x86.Build.0 = Stable build|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0D27673-EBFF-4733-B90D-F977A8FCDFBB}
+	EndGlobalSection
+EndGlobal
